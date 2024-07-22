@@ -1,0 +1,6 @@
+{
+  "url": "ws://csms.saikia.dev:8180/steve/websocket/CentralSystemService",
+  "id": "cp1",
+  "max_cur_1": 32,
+  "max_cur_2": 32
+}
